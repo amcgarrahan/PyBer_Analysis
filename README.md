@@ -7,5 +7,8 @@ Rural cities have the highest average fare per driver and highest average fare p
 Urban cities have the highest demand of rides while Rural cities have the least.
 There seems to be a relationship between the total number of drivers and the average fare per driver, being that the more drivers there are, the less the average fare per driver.
 Urban cities have the lowest average fare per ride, but still generate the most revenue.
+![image](https://user-images.githubusercontent.com/110629852/199658233-21928c4f-eec3-4fe0-8d0b-672b91829e55.png)
+
 #### Summary
 I would suggest to the CEO that Pyber increases the number of drivers in the Rural cities. They may currently generate the lowest revenue of the 3, but the average fare per ride and per driver is higher than both the Suburban and Urban cities. This could be due to surges and high demand for rides. If there is enough drivers to meet the demand, it could potentially increase the revenue for Rural cities. Another suggestion would be to also continue investing in Urban cities, because they currently generate the most revenue and based on the multiple line chart, are more consistent in terms of ride demand through the weeks. One last suggestion would be to make notes of the sharp increases in ride demand throughout the weeks to better prepare for those surges, such as the sharp increase in the third week of February.
+![image](https://user-images.githubusercontent.com/110629852/199658186-3e09990f-f085-47e2-a2b7-fb7b08f8a319.png)
